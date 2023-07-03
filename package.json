@@ -1,0 +1,35 @@
+{
+  "name": "one-dark-modern",
+  "displayName": "One Dark Modern",
+  "description": "Modern Dark background with Atom Dark(ish) tokens",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/One Dark Modern-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "developer-file-icons",
+        "label": "Developer File Icons",
+        "path": "./file_icons/developer-file-icon-theme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "developer-product-icons",
+        "label": "Developer Product Icons",
+        "path": "./product_icons/developer-product-icon-theme.json"
+      }
+    ]
+  }
+}

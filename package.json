@@ -2,7 +2,16 @@
   "name": "one-dark-modern",
   "displayName": "One Dark Modern",
   "description": "Modern Dark background theme with Atom Dark(ish) tokens",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "kjmcn",
+  "license": "MIT",
+  "author": {
+    "name": "kjmcn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kjmcnamara1/one-dark-modern"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
